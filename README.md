@@ -1,4 +1,7 @@
 # Manifold Fitting Reveals Metabolomic Heterogeneity and Disease Associations in UK Biobank Populations
+## Pre-requisites
+* MATLAB R2022b
+* R Version: 4.2.0 or higher
 ## Citation
 If you use this code for your research, please cite our papers.
 ```
