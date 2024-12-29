@@ -8,8 +8,7 @@
 ## Citation
 If you use this code for your research, please cite our papers.
 ```
-@article{yao2024mfmetabolomicheterogeneity
-,
+@article{yao2024mfmetabolomicheterogeneity,
   title={Manifold Fitting Reveals Metabolomic Heterogeneity and Disease Associations in UK Biobank Populations},
   author={Li, Bingjie and Su, Jiaji and Lin, Runyu and Yau, Shing-Tung and Yao, Zhigang},
   journal={Manuscript},
